@@ -163,7 +163,7 @@ function neoterm.open(opts)
     local winopts = {
       relative = "editor",
       style = "minimal",
-      border = "single",
+      --border = "single",
     }
 
     local width_padding = is_neovide() and NEOVIDE_PADDING or DEFAULT_PADDING
