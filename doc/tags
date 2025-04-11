@@ -3,6 +3,7 @@ NeotermExit	neoterm.txt	/*NeotermExit*
 NeotermOpen	neoterm.txt	/*NeotermOpen*
 NeotermRerun	neoterm.txt	/*NeotermRerun*
 NeotermRun	neoterm.txt	/*NeotermRun*
+NeotermTermEnter	neoterm.txt	/*NeotermTermEnter*
 NeotermTermLeave	neoterm.txt	/*NeotermTermLeave*
 NeotermToggle	neoterm.txt	/*NeotermToggle*
 NeotermWinClose	neoterm.txt	/*NeotermWinClose*
@@ -11,4 +12,5 @@ neoterm	neoterm.txt	/*neoterm*
 neoterm-commands	neoterm.txt	/*neoterm-commands*
 neoterm-configuration	neoterm.txt	/*neoterm-configuration*
 neoterm-events	neoterm.txt	/*neoterm-events*
+neoterm-setup	neoterm.txt	/*neoterm-setup*
 neoterm.txt	neoterm.txt	/*neoterm.txt*
